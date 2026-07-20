@@ -12,6 +12,8 @@ const readStorage = (key, fallback) => {
     return value ? JSON.parse(value) : fallback;
   } catch {
     return fallback;
+  
+  
   }
 };
 
