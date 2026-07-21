@@ -28,7 +28,8 @@ A functional employee operations dashboard built with React and Vite.
 ![Dashboard](./Screenshots/dashboard.png)
 
 ### Employee List
-![Employee List](./Screenshots/employees.png)
+![Employee List](./Screenshots/employee.png)
+
 
 ### Attendance
 ![Attendance](./Screenshots/attendance.png)
