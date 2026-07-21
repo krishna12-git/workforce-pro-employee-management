@@ -22,7 +22,7 @@ A functional employee operations dashboard built with React and Vite.
 
 
 
-## 📸 Screenshots
+## 📸 ScreenshotsS
 
 ### Dashboard
 ![Dashboard](./Screenshots/dashboard.png)
@@ -35,6 +35,8 @@ A functional employee operations dashboard built with React and Vite.
 
 ### Leave Management
 ![Leave Management](./Screenshots/leave.png)
+
+
 
 
 
